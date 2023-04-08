@@ -1,0 +1,35 @@
+.card:hover{
+	border-color: #F64C72!important;
+	border-radius: 10px;
+	border-width: 2px;
+}
+.nav-link:hover{
+	background-color:#F64C72!important;
+}
+
+.navbar-brand{
+	color:#F64C72!important;
+}
+#navbarDropdown:hover{
+	background-color:#F64C72!important;
+	color:white!important;
+}
+.primary-background {
+	background:#2F2FA2!important;
+}
+.secondary-background{
+	background-color:#F64C72!important;
+}
+
+.button-background{
+	border-color:#F64C72!important;
+	background:#2F2FA2!important;
+	color:#F64C72!important;
+}
+
+.button-background:hover{
+	background:#F64C72!important;
+	color:#2F2FA2!important;
+	
+}
+
